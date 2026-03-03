@@ -1,8 +1,8 @@
-**Business Process Transformation using AI & RPA**
+## **Business Process Transformation using AI & RPA**
 
 **Course:** CIS8010 | **Project:** 8010 Lending Co. — Mortgage Underwriting Process Innovation
 
-## 🏢 Business Context
+## Business Context
 
 **Who is Lending Co.?**
 - A **direct residential mortgage lender** (mid-size company)
@@ -57,7 +57,7 @@ Our team proposed four key innovations:
 - **Rule:** DTI must be **< 43%** (industry standard) to proceed
 - **Why it matters:** Eliminated wasted effort processing unqualified applicants — saving time and cost per application
 
-### 2. 🤖 AI-Powered Document Processing (Amazon Textract)
+### 2. AI-Powered Document Processing (Amazon Textract)
 - **What changed:** Replaced manual document verification with **Amazon Textract**
 - **How it works:** Textract uses OCR (Optical Character Recognition), Natural Language Processing, and Intelligent Document Processing to automatically:
   - Extract text from uploaded documents
